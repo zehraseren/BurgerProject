@@ -1,4 +1,4 @@
-- Udemy'de [MCP Can Boz](https://www.canboz.com/)'un [React JS : Uygulamalı React JS -Redux Eğitimi](https://www.udemy.com/course/react-egitimi/) eğitiminden React JS kısmından esinlenerek böyle bir proje ortaya çıkardım. Burada iş sahasında çokça tercih edilen ```React Router``` kütüphanesi üzerine yaptığım mini bir projedir.
+- Udemy'de [MCP Can Boz](https://www.canboz.com/)'un [React JS : Uygulamalı React JS -Redux Eğitimi](https://www.udemy.com/course/react-egitimi/) eğitiminden esinlenerek böyle bir proje ortaya çıkardım. Burada iş sahasında çokça tercih edilen ```React Router``` kütüphanesi üzerine yaptığım mini bir projedir.
 - Proje 7 farklı component ve css, react router, material ui teknolojileri ile tasarlanmıştır.
 
 ![Ekran görüntüsü 2024-01-16 203500](https://github.com/zehraseren/BurgerProject/assets/94180168/905a92e2-d8b7-4cdd-838a-9a47f007b7dc)
